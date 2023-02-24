@@ -1,4 +1,4 @@
-#Bread Hub
+# Bread Hub
 Bread Hub is a script hub that provides a collection of scripts for the popular game Roblox. The scripts are created by various developers and are designed to enhance the gameplay experience by offering various functionalities that are not available in the base game.
 
 # Features
